@@ -1,0 +1,20 @@
+.img{  
+    margin-top: 80px;
+    width : 100%;
+    padding-left: 100px;
+    height: calc(95vh - 50px);
+    background-image: url('../Images/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    object-fit: cover;
+    background-position: bottom right;
+}
+.registerimg{
+    background-image: url('../Images/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    object-fit: cover;
+    background-position: left 30% ;
+    width : 100%;
+    height: auto;
+}

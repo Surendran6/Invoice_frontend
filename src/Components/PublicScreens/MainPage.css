@@ -1,0 +1,21 @@
+.main{
+    margin-top: 80px;
+    width : 100%;
+    padding-left: 100px;
+    height: calc(95vh - 50px);
+    background-image: url('../Images/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    object-fit: cover;
+    background-position: bottom right;
+    color :rgb(45 186 203);
+}
+.center-conent{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     padding-left: 800px;    
+}
+button{
+    width: 100px;
+}
